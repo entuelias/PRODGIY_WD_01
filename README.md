@@ -10,7 +10,7 @@ This is my first frontend internship task: a **Responsive Landing Page** with an
 
 
 ## 🔗 Live Demo  
-[Click here to view the live site] ()
+[Click here to view the live site] (https://entuelias.github.io/PRODGIY_WD_01/)
 
 ## 🚀 Technologies Used
 - HTML5  
